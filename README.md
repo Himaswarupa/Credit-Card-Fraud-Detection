@@ -1,4 +1,4 @@
-Credit Card Fraud Detection System
+# Credit Card Fraud Detection System
 
 Final project for the Building AI course - Building AI course project
 
